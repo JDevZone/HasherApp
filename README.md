@@ -4,7 +4,7 @@
 
 <h3 align="center" >HasherApp</h3>
 
-<h6 align="center">A handy tool for Sha1 to KeyHash conversion and vice-versa.</h6>
+<h5 align="center">A handy tool for Sha1 to KeyHash conversion and vice-versa.</h5>
 
 <p align="center">This app is a helper app for all android developers out there. You can use this app to convert Sha1 to keyhash value (required for facebook login integration) also if you have a keyhash value
 then you can extract the source Sha1 value from it. It shows the extracted value in the top textfield which you can copy by simply tapping it also print the values in logcat (under info level) .
@@ -15,5 +15,6 @@ different signature so keyhash for that signature is different than yours origin
 
 ### Link
 <a href ="https://play.google.com/store/apps/details?id=com.hasher" >Google Play store link</a>
+
 
 
