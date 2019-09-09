@@ -1,5 +1,5 @@
 # HasherApp
-# A handy tool for Sha1 to KeyHash conversion and vice-versa.
+A handy tool for Sha1 to KeyHash conversion and vice-versa.
 
 >This app is a helper app for all android developers out there. You can use this app to convert Sha1 to keyhash value (required for facebook login integration) also if you have a keyhash value
 then you can extract the source Sha1 value from it. It shows the extracted value in the top textfield which you can copy by simply tapping it also print the values in logcat (under info level) .
