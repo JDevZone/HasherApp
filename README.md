@@ -14,7 +14,9 @@ different signature so keyhash for that signature is different than yours origin
 ----------
 
 ### Link
-<a href ="https://play.google.com/store/apps/details?id=com.hasher" >Google Play store link</a>
+
+<a href="https://play.google.com/store/apps/details?id=com.hasher"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=56px /></a>
+
 
 
 
