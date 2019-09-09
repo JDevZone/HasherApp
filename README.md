@@ -12,7 +12,7 @@ One scenerio to use this app is when you publish an app on play store which have
 different signature so keyhash for that signature is different than yours original signature. So now you just have to grab that new Sha1 key from play console and paste in this app and create new keyhash and add it to the Facebook console. Also you can always verify which keyhash is created from which signature.</p>
 
 ----------
-
+#### Link
 <a href="https://play.google.com/store/apps/details?id=com.hasher"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=56px /></a>
 
 
