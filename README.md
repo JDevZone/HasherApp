@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://lh3.googleusercontent.com/xNklVYUmoK9h2bc3mf41gAsr5y0RAhe62A5uG-iDEg5-fKe1lCLPj3iNL-2orpG1ypY=s180-rw" alt="" width="70px" height="70px">
+</div>
+
 ### HasherApp
 A handy tool for Sha1 to KeyHash conversion and vice-versa.
 
