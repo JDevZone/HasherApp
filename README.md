@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://lh3.googleusercontent.com/xNklVYUmoK9h2bc3mf41gAsr5y0RAhe62A5uG-iDEg5-fKe1lCLPj3iNL-2orpG1ypY=s180-rw" alt="" width="70px" height="70px">
+<img src="https://lh3.googleusercontent.com/pl6iYEhfHCWTTo-26SA1Vc9cSkd7ASXcUa5ryhWGZbpzX3BrnO9vdJWS3zev3KOQlJc=s180-rw" alt="" width="70px" height="70px">
 </div>
 <h3 align="center" >HasherApp</h3>
 <h5 align="center">A handy tool for Sha1 to KeyHash conversion and vice-versa.</h5>
